@@ -1,8 +1,3 @@
-Tentu! Berikut adalah contoh file **README.md** untuk proyek **Energy Consumption Forecasting** yang bisa Anda gunakan di GitHub. File ini menjelaskan tujuan proyek, langkah-langkah, cara menjalankan kode, dan informasi lainnya.
-
----
-
-````markdown
 # Energy Consumption Forecasting
 
 ## Overview
@@ -56,6 +51,7 @@ The dataset used in this project is the **Household Power Consumption Dataset** 
    ```bash
    git clone https://github.com/your-username/energy-consumption-forecasting.git
    ```
+
 ````
 
 2. Install the required libraries:
@@ -146,4 +142,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 4. Upload dataset ke folder `data/` atau berikan instruksi untuk mengunduhnya.
 
 ---
-```
+````
