@@ -51,9 +51,6 @@ The dataset used in this project is the **Household Power Consumption Dataset** 
    ```bash
    git clone https://github.com/your-username/energy-consumption-forecasting.git
    ```
-
-````
-
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
@@ -103,43 +100,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Dataset provided by [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption).
 - Inspired by various time series forecasting tutorials and projects.
-
-```
-
----
-
-### **Penjelasan Isi README.md**
-1. **Overview**:
-   - Menjelaskan tujuan proyek secara singkat.
-
-2. **Dataset**:
-   - Memberikan informasi tentang dataset yang digunakan, termasuk fitur-fitur yang relevan.
-
-3. **Project Steps**:
-   - Menjelaskan langkah-langkah yang dilakukan dalam proyek, dari preprocessing hingga evaluasi model.
-
-4. **How to Run the Code**:
-   - Memberikan instruksi untuk menjalankan kode, termasuk cara menginstal dependensi dan menjalankan notebook.
-
-5. **Requirements**:
-   - Daftar library yang diperlukan untuk menjalankan proyek.
-
-6. **Results**:
-   - Menampilkan hasil evaluasi model dan visualisasi.
-
-7. **License**:
-   - Menjelaskan lisensi proyek (misalnya, MIT License).
-
-8. **Acknowledgments**:
-   - Memberikan penghargaan kepada sumber dataset dan inspirasi proyek.
-
----
-
-### **Cara Menggunakan**
-1. Simpan file ini dengan nama `README.md` di root folder repositori GitHub Anda.
-2. Tambahkan folder `images/` untuk menyimpan gambar seperti plot hasil visualisasi.
-3. Pastikan file `requirements.txt` sudah dibuat dan berisi library yang diperlukan.
-4. Upload dataset ke folder `data/` atau berikan instruksi untuk mengunduhnya.
-
----
-````
